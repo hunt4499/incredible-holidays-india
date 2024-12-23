@@ -1,0 +1,12 @@
+# Don't track content of these folders
+node_modules/
+build/
+
+
+.DS_Store
+
+.vscode/launch.json
+.package-lock.json
+.public/bundle.js
+.public/bundle.js.gz
+.public/bundle.js
